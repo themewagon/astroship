@@ -36,5 +36,5 @@ Design and code is completely written by Web3Templates and development team.
 ## License
 
  - Design and Code is Copyright &copy; <a href="https://web3templates.com/" target="_blank">Web3Templates</a>
- - Licensed cover under [MIT]
+ - Licensed cover under [GPL-3.0]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
